@@ -1,6 +1,6 @@
 # HAR
 ## Human Activity Recognition Data
-Your smartphone contains sensors that can track your physical location, speed, and orientation (position relative to vertical). Many of us enjoy using apps that monitor our activities. Researchers and app creators use the data streams to detect and classify different types of physical activity; hence, "human activity recognition". 
+Our smartphones contain sensors that can track your physical location, speed, and orientation (position relative to vertical). Many of us enjoy using apps that monitor our activities. Researchers and app creators use the data streams to detect and classify different types of physical activity; hence, "human activity recognition". 
 
 This repository contains data and documentation for BUS212 assignments using data downloaded from 
 https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition+Data+Set or the personal Website: http://cs.au.dk/~allans/heterogenity/.
